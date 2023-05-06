@@ -2,7 +2,7 @@
 
 ## Description
 
-This introductory webpage is a project and a study guide useful for referencing throughout the UNC coding bootcamp. The webpage offers an online document that all can view publicly. I have learned about the basics about GitHub, HTML, CSS and JavaScript. As I learn more information, it will be added to the public webiste. 
+This introductory webpage is a project and a study guide useful for referencing throughout the UNC coding bootcamp. The webpage offers an online document that all can view publicly. I have learned the basics about GitHub, HTML, CSS and JavaScript. As I learn more information, it will be added to the public webiste. 
 
 
 ## Installation
